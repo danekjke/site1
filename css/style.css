@@ -1,0 +1,547 @@
+ /*--------global------- */
+body {
+	font-family: 'Roboto' , sans-serif;
+	min-width: 375;
+	
+}
+
+.header{
+	background-color: lightgrey;
+}
+.main{
+    width: 2000px;
+    height: 10px;
+    position: fixed;
+    background: #fff;
+    z-index: 1000;
+}
+
+.logo{
+
+width: 92px;
+height: 111px;
+left: 25px;
+top: 6px;
+}
+
+
+
+
+
+.glavnaya{
+		position: absolute;
+width: 137px;
+height: 43px;
+left: 384px;
+top: 50px;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 33px;
+line-height: 27px;
+text-align: center;
+	color:green;
+}
+.about{
+	position: absolute;
+width: 251px;
+height: 44px;
+left: 490px;
+top: 50px;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 33px;
+line-height: 27px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.catalog{
+	position: absolute;
+width: 265px;
+height: 51px;
+left: 729px;
+top: 50px;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 33px;
+line-height: 27px;
+text-align: center;
+
+color: #000000;
+
+}
+
+
+.svyaz{
+	position: absolute;
+width: 279px;
+height: 59px;
+left: 1041px;
+top: 50px;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 33px;
+line-height: 27px;
+text-align: center;
+
+color: #000000;
+}
+
+.search{
+	position: absolute;
+width: 137px;
+height: 52px;
+left: 1340px;
+top: 50px;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 33px;
+line-height: 27px;
+text-align: center;
+
+color: #000000;
+}
+
+.basket{
+position: absolute;
+width: 82px;
+height: 82px;
+left: 1566px;
+top: 26px;
+
+
+}
+
+
+.name{
+	position: absolute;
+width: 164px;
+height: 70px;
+left: 117px;
+top: 33px;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+
+color: green;
+
+}
+
+.sum{
+position: absolute;
+width: 89px;
+height: 75px;
+left: 1656px;
+top: 58px;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 38px;
+line-height: 27px;
+text-align: center;
+color: black;
+}
+
+
+.promo{
+position: absolute;
+width: 845px;
+height: 89px;
+left: 520px;
+top: 191px;
+
+font-family: Monotype Corsiva;
+font-style: normal;
+font-weight: normal;
+font-size: 58px;
+line-height: 89px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+}
+
+.catalog_perehod {
+position: absolute;
+width: 600px;
+height: 107px;
+left: 734px;
+top: 336px;
+
+font-family: Arial Black;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 67px;
+text-align: center;
+
+color: white;
+    width: 400px; 
+    margin: 7px; 
+    padding: 10px; 
+    border: 4px solid black; 
+    background: green; 
+}
+
+.promo_picture{
+position: absolute;
+width: 1200px;
+height: 480px;
+left: 380px;
+top: 450px;
+
+}
+
+
+.tomato{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 200px;
+top: 1100px;
+
+}
+
+.cucumber{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 550px;
+top: 1143px;
+}
+
+
+.cauliflower{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 1000px;
+top: 1103px;
+}
+.broccoli{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 1400px;
+top: 1088px;
+}
+
+.onion_parade{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 170px;
+top: 1400px;
+
+}
+
+.onion{
+
+position: absolute;
+width: 226px;
+height: 217px;
+left: 576px;
+top: 1400px;
+}
+
+.mushrooms{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 1000px;
+top: 1400px;
+}
+
+.chilly{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 1440px;
+top: 1400px;
+}
+
+
+.grapefruit{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 170px;
+top: 1660px;
+}
+
+.kiwi{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 550px;
+top: 1680px;
+}
+
+.strawberry{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 1000px;
+top: 1670px;
+}
+
+.blueberry{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 1440px;
+top: 1670px;
+}
+
+.tomato_sign{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 180px;
+top: 1330px;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+color: #000000;
+}
+
+
+.cucumber_sign{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 580px;
+top: 1330px;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000
+}
+
+.cauliflower_sign{
+position: absolute;
+width: 326px;
+height: 217px;
+left: 1020px;
+top: 1330px;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000
+}
+
+.broccoli_sign{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 1470px;
+top: 1330px;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000
+}
+
+.onion_parade_sign{
+position: absolute;
+width: 326px;
+height: 217px;
+left: 180px;
+top: 1597px;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+color: #000000;
+}
+
+.onion_sign{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 580px;
+top: 1597px;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+color: #000000
+}
+
+.mushrooms_sign{
+
+position: absolute;
+width: 226px;
+height: 217px;
+left: 1020px;
+top: 1597px;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000
+}
+
+.chilly_sign{
+
+position: absolute;
+width: 226px;
+height: 217px;
+left: 1470px;
+top: 1597px;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000
+}
+
+.grapefruit_sign{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 180px;
+top: 1897px;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+color: #000000;
+}
+
+.kiwi_sign{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 580px;
+top: 1897px;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+color: #000000
+}
+
+.strawberry_sign{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 1020px;
+top: 1897px;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+color: #000000
+
+}
+
+.blueberry_sign{
+position: absolute;
+width: 226px;
+height: 217px;
+left: 1480px;
+top: 1897px;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000
+}
+
+.info_name{
+position: absolute;
+width: 426px;
+height: 90px;
+left: 740px;
+top: 2100px;
+font-style: normal;
+font-weight: normal;
+font-size: 34px;
+line-height: 36px;
+text-align: center;
+color: #000000
+}
+
+.info_bio{
+
+width: 926px;
+height: 90px;
+left: 540px;
+top: 2300px;
+font-style: normal;
+font-weight: normal;
+font-size: 34px;
+line-height: 36px;
+text-align: center;
+color: #000000;
+position: absolute;
+}
+
+.info_picrute{
+
+position: absolute;
+width: 532px;
+height: 365px;
+left: 1374px;
+top: 2530px;
+
+
+}
+
+.copyright{
+
+position: absolute;
+width: 200px;
+height: 20px;
+left: 850px;
+top: 2897px;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+
+color: #000000
+}
